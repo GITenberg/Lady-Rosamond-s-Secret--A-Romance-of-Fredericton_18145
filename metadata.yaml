@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '2269'
     url: http://www.gutenberg.org/2009/agents/2269
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18145#Lady-Rosamond-s-Secret--A-Romance-of-Fredericton
 gutenberg_issued: '2006-04-10'
 gutenberg_type: Text
 identifiers:
